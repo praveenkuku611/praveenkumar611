@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Jami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Html,Css,Javascript,Bootstrap,ReactJS,SQLlite,Pythonite**
+- 🌱 I’m currently learning **Html,Css,Javascript,Bootstrap,ReactJS,SQLlite,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
